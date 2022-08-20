@@ -15,6 +15,7 @@ h3,
 p,
 li {
     color: green;
+    list-style-type: none;
 }
 
 img {
@@ -83,4 +84,10 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+#star {
+color: gold;
+}
+#fire {
+    color:red;
 }
